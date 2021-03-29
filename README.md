@@ -1,6 +1,8 @@
 # FlowerClassifcationNN
 
-Using the Iris Dataset URL: https://www.kaggle.com/vik2012kvs/iris-dataset
+Dataset Used: Iris 
+
+Dataset URL: https://www.kaggle.com/vik2012kvs/iris-dataset
 
 Neural Network Model Type: Classification
 
